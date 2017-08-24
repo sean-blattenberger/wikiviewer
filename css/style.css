@@ -1,0 +1,10 @@
+i.ion-search {
+  cursor: pointer;
+}
+/* .search-bar {
+  max-width: 300px;
+  align: center;
+} */
+input[type="search"] {
+  height: 64px !important; /* or height of nav */
+}
